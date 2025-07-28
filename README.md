@@ -1,4 +1,4 @@
-# Personal Portfolio Responsive Complete
+# Personal Portfolio
 
 ![preview img](/preview.png)
 
